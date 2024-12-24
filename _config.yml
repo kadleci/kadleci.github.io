@@ -14,11 +14,11 @@
 locale                   : "en-US"
 title                    : "Home" #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "François Leroy"
-description              : &description "François Leroy personal website"
-url                      : https://frslry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ivo Kadlec"
+description              : &description "Ivo Kadlec personal website"
+url                      : https://kadlec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "FrsLry/FrsLry.github.io"
+repository               : "kadleci/kadlec.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,7 +62,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "FrsLry"    
+  username               : &twitter "xxxx"    
 facebook:
   username               :
   app_id                 :
@@ -85,15 +85,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "François Leroy"
+  name             : "Ivo Kadlec"
   avatar           : "profile.png"
-  bio              : "PhD student in Macroecology"
+  bio              : "PhD student in Ecology"
   location         : "Prague, Czech Republic"
   employer         : 
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "francois.libert.leroy@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Francois-Leroy-3"
+  googlescholar    : # "https://scholar.google.com/citations?hl=cs&authuser=1&user=WcTSycoAAAAJ"
+  email            : "kadleci@fzp.czu.cz"
+  researchgate     :  "https://www.researchgate.net/profile/Ivo-Kadlec"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,20 +100,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "FrsLry"
+  github           : "kadleci"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-7400-4475" # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-3419-5989" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "13155816/frslry" # http://stackoverflow.com/users/123456/username
+  stackoverflow    :  # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "FrsLry"
+  twitter          : "xxxx"
   vine             :
   weibo            :
   xing             :
